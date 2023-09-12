@@ -1,7 +1,6 @@
 #include <stdio.h>
 /*
- *This function takes no input. It outputs
- *a string.
+ *Write a C program that prints exactly with proper grammar, but the outcome is a piece of art,, followed by a new line.
  */
 int main(void)
 {
